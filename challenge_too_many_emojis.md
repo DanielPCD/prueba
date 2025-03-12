@@ -1,6 +1,7 @@
 ### Renaissance Flag Music Challenge
 **Analysis:** We were given this PNG
 ![](https://user-images.githubusercontent.com/19884345/222978202-f86f0d98-9150-4284-8e40-3ed85f49a134.png)
+
 The image appears to be sheet music for an unfamiliar instrument, but from the title and notation, we can deduce that it's a Renaissance instrument.
 After some research, we discovered that this type of sheet music is used for the lute, where the lines represent the number of strings and the numbers represent the frets where the notes are played. 
 
